@@ -6,6 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Paweł Kaczmarek</title>
 
+    <link rel="stylesheet" type="text/css" href="dist/css/main.css">
+    <script src="dist/js/class.js"></script>
+
 </head>
 <body>
 
